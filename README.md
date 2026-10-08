@@ -4,6 +4,8 @@ Nama: Arfis Orica Shirena
 
 NIM: 2609116076
 
+kelas: B
+
 # Penjelasan singkat
 
 Program ini adalah sistem menajemen inventaris barang sederhana. program ini berfungsi untuk membaca data barang dari file json, menampilkan daftar barang yang sudah terisi dengan data awal, serta menambahkan data barang baru yang akan tersimpan secara permanen ke file json tersebut. 
