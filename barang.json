@@ -11,6 +11,9 @@
         "stok": "10",
         "harga": "23000"
     },
+    
+    # kedua data di atas (beras dan minyak goreng) adalah data barang awal
+    
     {
         "nama": "gula",
         "kode": "003",
@@ -23,4 +26,6 @@
         "stok": "21",
         "harga": "3000"
     }
+
+    # gula dan garam dapur adalah data yang di input oleh pengguna
 ]
