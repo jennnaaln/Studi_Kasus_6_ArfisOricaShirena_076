@@ -18,9 +18,11 @@ Output ketika user memilih menu 1 untuk melihat data awal dari toko klontong
 
 <img width="394" height="223" alt="image" src="https://github.com/user-attachments/assets/3067b90d-2a82-4d9c-aed3-ad5d5317242f" />
 
+<img width="417" height="220" alt="image" src="https://github.com/user-attachments/assets/58db733d-bebe-4338-8c07-49489eedfdfc" />
+
 Output ketika user memilih menu 2 untuk menambahkan barang baru ke dalam data barang
 
-barang baru yang ditambahkan adalah gula dengan kode barang 003 stok barang berjumlah 12 dan harga Rp16000
+barang baru yang ditambahkan adalah gula dengan kode barang 003 stok barang berjumlah 12 dan harga Rp16000 dan garam dapur dengaan kode 004 stok 21 dan harga 3000
 
 <img width="391" height="138" alt="image" src="https://github.com/user-attachments/assets/e7b7f681-573e-476c-a978-2c981ae5fd4a" />
 
