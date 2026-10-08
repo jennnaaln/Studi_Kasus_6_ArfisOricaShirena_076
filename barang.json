@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "beras 5kg",
+        "kode": "001",
+        "stok": "25",
+        "harga": "60000"
+    },
+    {
+        "nama": "minyak goreng 1L",
+        "kode": "002",
+        "stok": "10",
+        "harga": "23000"
+    },
+    {
+        "nama": "gula",
+        "kode": "003",
+        "stok": "12",
+        "harga": "16000"
+    },
+    {
+        "nama": "garam dapur",
+        "kode": "004",
+        "stok": "21",
+        "harga": "3000"
+    }
+]
