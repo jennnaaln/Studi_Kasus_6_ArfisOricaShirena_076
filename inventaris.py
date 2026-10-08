@@ -1,7 +1,7 @@
 import json # mengimpor modul python bawaan untuk mengolah file json
 path = r"C:\Users\Hype AMD\Downloads\DDP\StudiKasusDDP01\barang.json" # menyimpan lokasi/alamat file barang.json ke dalam komputer 
 
-(saya menggunakan path soalnya kalau pake nama file barang.json langsung, terjadi error)
+# (saya menggunakan path soalnya kalau pake nama file barang.json langsung, terjadi error)
 
 with open(path,"r", encoding="utf-8") as f: # membaca isi file barang.json
     data = json.load(f)
