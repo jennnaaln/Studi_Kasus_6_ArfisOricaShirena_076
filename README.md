@@ -25,3 +25,11 @@ barang baru yang ditambahkan adalah gula dengan kode barang 003 stok barang berj
 <img width="391" height="138" alt="image" src="https://github.com/user-attachments/assets/e7b7f681-573e-476c-a978-2c981ae5fd4a" />
 
 output ketika user memilih menu 3 untuk keluar dari menu
+
+<img width="484" height="401" alt="Cuplikan layar 2026-10-08 112024" src="https://github.com/user-attachments/assets/64a46481-92a8-4371-bcfa-c7ed1ddb10cc" />
+
+Data awal di file barang.json
+
+<img width="506" height="672" alt="Cuplikan layar 2026-10-08 112003" src="https://github.com/user-attachments/assets/53ef609c-d1fd-4e63-bdcd-fdc3ed576704" />
+
+Data di file barang.json setelah pengguna menginputkan data barang baru
